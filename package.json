@@ -1,6 +1,6 @@
 {
   "name": "wordflip",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Flip a word like it's a table",
   "main": "bin/wordflip.js",
   "bin": {
