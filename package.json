@@ -1,0 +1,32 @@
+{
+  "name": "wordflip",
+  "version": "0.0.0",
+  "description": "Flip a word like it's a table",
+  "main": "bin/wordflip.js",
+  "bin": {
+    "wordflip": "bin/wordflip.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:trodrigues/wordflip.git"
+  },
+  "keywords": [
+    "flip",
+    "word",
+    "table",
+    "text",
+    "upside",
+    "down"
+  ],
+  "author": "Tiago Rodrigues",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/trodrigues/wordflip/issues"
+  },
+  "dependencies": {
+    "upsidedown": "0.0.5"
+  }
+}
